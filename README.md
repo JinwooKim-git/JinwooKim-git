@@ -74,4 +74,4 @@ Soft MEMS Lab · Pt interdigitated electrodes on PET
 
 ## Contact
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [02jinwookim@gmail.com](mailto:02jinwookim@gmail.com)
